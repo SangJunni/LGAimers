@@ -11,6 +11,7 @@ LGAimers Dacon 경진대회 참여
 |Elice Cloud|불가능|데이터 셋 생성 과정에서 RAM 이슈로 Kernel 터짐|
 |Colaboratory|불가능|데이터 셋 생성 과정에서 RAM 이슈로 Kernel 터짐|
 
+
 -> 현재 Train Window Size를 원인으로 잡고 줄이는 중
 
 ## 참고자료
