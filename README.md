@@ -20,8 +20,9 @@ LGAimers Dacon 경진대회 참여
 ### 학습 플랫폼
 |플랫폼|WINDOW_SIZE 30|WINDOW_SIZE 60|WINDOW_SIZE 90|사유|VRAM|RAM|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|Elice Cloud|가능|불가능|불가능| RAM 부족 |2.7/15.0|12.1/12.7|
-|Colaboratory|가능|불가능|불가능| RAM 부족 |1.098/9.728|13.04/16|
+|Elice Cloud Free|가능|불가능|불가능| RAM 부족 |1.098/9.728|13.04/16|
+|Elice Cloud Basic|가능|가능|가능| - |6.1/9.728|24.81/32|
+|Colaboratory|가능|불가능|불가능| RAM 부족 |2.7/15.0|12.1/12.7|
 
 -> 많은 데이터 적재를 위해서는 RAM이 커야함
 ### TODO
