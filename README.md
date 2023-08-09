@@ -37,6 +37,7 @@ LGAimers Dacon 경진대회 참여
 |2023.08.09|LSTM|0.50387|Baseline -> window size 30|0.01817|0.01793|
 |2023.08.09|LSTM|0.45893|Baseline -> window size 30, batch 4096|0.1854|0.1909|
 |2023.08.10|LSTM|-|Baseline|-|-|
+
 ## 참고자료
 - [Predict Future Sales - 1st](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/discussion/374500)
 - [Predict Future Sales - 2nd](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/discussion/190784)
