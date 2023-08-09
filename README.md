@@ -25,10 +25,11 @@ LGAimers Dacon 경진대회 참여
 
 -> 많은 데이터 적재를 위해서는 RAM이 커야함
 ### 학습 결과
-|일자|모델|성능|옵션|
-|:--:|:--:|:--:|:--:|
-|2023.08.07|LSTM|0.49186|Baseline -> window size 30, batch 64|
-|2023.08.09|LSTM|~ing|Baseline -> window size 30|
+|일자|모델|성능|옵션|final_train_loss|final_val_loss|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|2023.08.07|LSTM|0.49186|Baseline -> window size 30, batch 64|0.1815|0.01751|
+|2023.08.09|LSTM|0.50387|Baseline -> window size 30|0.01817|0.01793|
+|2023.08.09|LSTM|~ing|Baseline -> window size 30, batch 4096|~ing|~ing|
 ## 참고자료
 - [Predict Future Sales - 1st](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/discussion/374500)
 - [Predict Future Sales - 2nd](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/discussion/190784)
