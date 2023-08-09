@@ -159,6 +159,10 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Data Leakage
-*.csv
+# Prevent Data Leakage
+sample_submission.csv
+train.csv
+brand_keyword_cnt.csv
+product_info.csv
+sales.csv
 *.pth
