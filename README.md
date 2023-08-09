@@ -31,7 +31,7 @@ LGAimers Dacon 경진대회 참여
 4. 데이터 시각화를 통해 너무 매출이 크거나 작은 케이스가 있다면 제거하여 학습 진행
 
 ### 학습 결과
-|일자|모델|성능|옵션|final_train_loss|final_val_loss|
+|일자|모델|성능(LB)|옵션|final_train_loss|final_val_loss|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |2023.08.07|LSTM|0.49186|Baseline -> window size 30, batch 64|0.1815|0.01751|
 |2023.08.09|LSTM|0.50387|Baseline -> window size 30|0.01817|0.01793|
