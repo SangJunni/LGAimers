@@ -44,3 +44,6 @@ LGAimers Dacon 경진대회 참여
 - [Predict Future Sales - 1st](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/discussion/374500)
 - [Predict Future Sales - 2nd](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/discussion/190784)
 - [Store sales - Time Series Forecasting](https://www.kaggle.com/code/ferdinandberr/darts-forecasting-deep-learning-global-models#4.5.-Model-Comparison)
+- [Supercharging with LightGBM](https://www.kaggle.com/code/masterofdeception/supercharging-with-lightgbm)
+- [Cracking the Walmart Sales Forecasting challenge](https://www.kaggle.com/code/masterofdeception/supercharging-with-lightgbm)
+- [S3E19 : Time Series = LSTM on residuals](https://www.kaggle.com/code/thomasmeiner/s3e19-time-series-lstm-on-residuals)
