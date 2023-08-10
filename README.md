@@ -40,7 +40,7 @@ LGAimers Dacon 경진대회 참여
 |2023.08.09|LSTM|0.45893|Baseline -> window size 30, batch 4096|0.1854|0.1909|-|
 |2023.08.10|LSTM|0.48783|Baseline|0.1768|-|0.54361(PSFA non inverse-scaling)|
 |2023.08.10|LSTM|0.51388|Baseline|0.1768|-|0.59079(PSFA)|
-|2023.08.11|LSTM|**0.52605**|Baseline|0.1730|-|0.66161(PSFA)|
+|2023.08.11|LSTM|**0.52605**|Baseline -> 20 epoch|0.1730|-|0.66161(PSFA)|
 
 ### 학습 결과
 
