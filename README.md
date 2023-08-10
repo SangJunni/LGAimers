@@ -33,12 +33,12 @@ LGAimers Dacon 경진대회 참여
 5. Fold dataset 만들어서 Ensemble 진행하기
 
 ### 학습 결과
-|일자|모델|성능(LB)|옵션|final_train_loss|final_val_loss|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|2023.08.07|LSTM|0.49186|Baseline -> window size 30, batch 64|0.1815|0.01751|
-|2023.08.09|LSTM|0.50387|Baseline -> window size 30|0.01817|0.01793|
-|2023.08.09|LSTM|0.45893|Baseline -> window size 30, batch 4096|0.1854|0.1909|
-|2023.08.10|LSTM|-|Baseline|-|-|
+|일자|모델|성능(LB)|옵션|final_train_loss|final_val_loss|final_PSFA_val|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|2023.08.07|LSTM|0.49186|Baseline -> window size 30, batch 64|0.1815|0.01751|-|
+|2023.08.09|LSTM|0.50387|Baseline -> window size 30|0.01817|0.01793|-|
+|2023.08.09|LSTM|0.45893|Baseline -> window size 30, batch 4096|0.1854|0.1909|-|
+|2023.08.10|LSTM|0.48783|Baseline|0.1768|-|0.54361(PSFA)|
 
 ## 참고자료
 - [Predict Future Sales - 1st](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/discussion/374500)
