@@ -30,6 +30,7 @@ LGAimers Dacon 경진대회 참여
 2. 여분의 CSV의 정보 활용하여 학습 테스트
 3. 주말, 공휴일, 라이브 방송을 통한 혜택 등 매출을 올릴 수 있었던 Event의 추가
 4. 데이터 시각화를 통해 너무 매출이 크거나 작은 케이스가 있다면 제거하여 학습 진행
+5. Fold dataset 만들어서 Ensemble 진행하기
 
 ### 학습 결과
 |일자|모델|성능(LB)|옵션|final_train_loss|final_val_loss|
