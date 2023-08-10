@@ -165,4 +165,3 @@ train.csv
 brand_keyword_cnt.csv
 product_info.csv
 sales.csv
-*.pth
