@@ -30,7 +30,10 @@ LGAimers Dacon 경진대회 참여
 2. 여분의 CSV의 정보 활용하여 학습 테스트
 3. 주말, 공휴일, 라이브 방송을 통한 혜택 등 매출을 올릴 수 있었던 Event의 추가
 4. 데이터 시각화를 통해 너무 매출이 크거나 작은 케이스가 있다면 제거하여 학습 진행
-5. Fold dataset 만들어서 Ensemble 진행하기
+5. Fold dataset 만들어서 Ensemble 진행하기 
+-> CFG에 Fold number 옵션을 추가, make_train_data 함수 이후 각 데이터셋을 5개의 구간으로 나눔, CFG Fold option에 따라서 train,valid 데이터 생성하기
+6. PSFA를 진행하기 위해 별도의 변환 식 추가
+-> len(data.columns) - (train_window_size + test_window_size) + 1 설정, valid 길이를 5분할하여 시작 idx 저장하여 PSFA를 바로 적용
 
 ### 학습 결과
 |일자|모델|성능(LB)|옵션|final_train_loss|final_val_loss|final_PSFA_val|
