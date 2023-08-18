@@ -46,6 +46,9 @@ LGAimers Dacon 경진대회 참여
 |2023.08.11|LSTM|**0.52605**|Baseline -> 20 epoch|0.01730|-|0.66161(PSFA)|
 |2023.08.11|LSTM|0.48705|Baseline -> 30 epoch|0.01702|-|0.58401(PSFA)|
 |2023.08.11|LSTM|0.51699|Baseline -> 40 epoch|0.01683|-|0.61648(PSFA)|
+|2023.08.12|LSTM|0.50905|Baseline -> 40 epoch|-|-|0.63(PSFA)|
+|2023.08.12|LSTM|0.50061|Baseline -> 50 epoch|-|-|0.63(PSFA)|
+|2023.08.18|LSTM|0.50353|Baseline -> 20 epoch + 1 feature|0.01967|-|0.58(PSFA)|
 ### 학습 결과
 
 ## 참고자료
